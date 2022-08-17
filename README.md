@@ -4,7 +4,7 @@ Jutsu is a GoLang API for [MyAnimeList.net](https://myanimelist.net). It scrapes
 
 Jutsu's main goal is to help developers to easily access the data needed for their apps and projects, without having any kind of tracking or request limit or unstable API's issues.
 
-The word _Jutsu_ literally translates to _Skill_ in Japanese (**術**). And that's what this API is. ;)
+The word _Jutsu_ literally translates to _Art_ in Japanese (**術**). And that's what this API is. ;)
 
 # Features
 _it will be updated when i update controllers_
